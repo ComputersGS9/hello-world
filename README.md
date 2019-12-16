@@ -1,2 +1,2 @@
 # hello-world
-Just conflict repository
+Just new  conflict repository
